@@ -1,0 +1,36 @@
+.Main {
+  margin-left: calc(50% - 200px);
+  background: linear-gradient(to top, lightblue, #9198e5);
+  width: 400px;
+  text-align: center;
+  border-radius: 3%;
+}
+
+button {
+  background: linear-gradient(to top, rgb(248, 233, 233), rgb(240, 108, 42));
+  text-shadow: blue;
+  border-radius: 10px;
+  font-size: 25px;
+  border: 0px;
+  color: beige;
+  margin-bottom: 10px;
+}
+
+h1 {
+  font-size: 75px;
+  color: azure;
+  font-family: "Times New Roman", Times, serif;
+}
+
+h2 {
+  text-align: left;
+  margin-bottom: 0px;
+  margin-top: 80px;
+  margin-left: 10px;
+}
+
+p {
+  text-align: left;
+  margin: 0px;
+  margin-left: 10px;
+}
